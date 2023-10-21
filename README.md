@@ -1,1 +1,1 @@
-# SS_MINI_PROJECT
+# ss_mini_project
